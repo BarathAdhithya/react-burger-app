@@ -1,0 +1,19 @@
+.Person{
+    background: red;
+    width:50%;
+    margin:1rem auto;
+}
+
+/* button:hover{
+    background: blue;
+}
+
+button{
+    border:none;
+} */
+
+@media (min-width: 500px){
+    .Person {
+        width: 450px;
+    }
+}
